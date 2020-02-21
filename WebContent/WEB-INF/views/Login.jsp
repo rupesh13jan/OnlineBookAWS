@@ -6,8 +6,6 @@
 <html>
 <head>
 
-
-
 <meta http-equiv="Content-Type" content="tex; charset=ISO-8859-1">
 <title>User Login</title>
 
