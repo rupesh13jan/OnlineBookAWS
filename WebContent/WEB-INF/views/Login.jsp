@@ -7,10 +7,8 @@
 <head>
 
 <meta http-equiv="Content-Type" content="tex; charset=ISO-8859-1">
-<title>User Login</title>
-
+<title>User Login Page</title>
 <link href="<c:url value="/resources/style.css" />" rel="stylesheet">
-
 </head>
 <body>
 	<form action="home" method="POST">
