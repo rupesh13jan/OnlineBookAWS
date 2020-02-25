@@ -5,7 +5,7 @@
 
 <!-- Mirrored from houzez.favethemes.com/html/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 15 May 2017 13:09:48 GMT -->
 <head>
-    <title>User Login Page</title>
+    <title>Login Page</title>
     <!--Meta tags-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
