@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from houzez.favethemes.com/html/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 15 May 2017 13:09:48 GMT -->
+<!--Mirrored from houzez.favethemes.com/html/login.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 15 May 2017 13:09:48 GMT -->
 <head>
     <title>User Login Page</title>
     <!--Meta tags-->
