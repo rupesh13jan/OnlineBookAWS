@@ -11,11 +11,15 @@ pipeline {
               echo 'Checkout Successful...'
             }
    }
-        stage('Build') { 
-            steps {
-               echo 'Building...'
-            }
-        }
+   
+   stage('Mvn Package'){
+	   // Build using maven
+	   steps{
+	   sh "mvn clean install"
+	   echo 'Building Successful...'
+	   }
+   }
+        
         stage('Test') { 
             steps {
                echo 'Testing...'
