@@ -1,6 +1,16 @@
 pipeline {
     agent any 
     stages {
+    
+    stage('SCM Checkout'){
+    // Clone repo
+   steps {
+              git branch: 'master', 
+	credentialsId: 'rupesh13jan', 
+	url: 'https://github.com/rupesh13jan/OnlineBookAWS'
+              echo 'Checkout Successful...'
+            }
+   }
         stage('Build') { 
             steps {
                echo 'Building...'
